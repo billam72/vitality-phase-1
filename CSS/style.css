@@ -1,0 +1,224 @@
+.bg-img {
+  /* The image used */
+  background-image: linear-gradient(rgba(0, 0, 0, .74), rgba(0, 0, 0, .74)), url("images/bgImage.jpg");
+  min-height: 605px;
+  text-align: center;
+  color: black;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#bgText {
+  margin-top: 120px;
+}
+.nav-item, .nav-link{
+  font-size: 1em;
+  padding: 0.5em;
+  color: white;
+}
+
+.teamBgImg1 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/team/1.jpg");
+}
+
+.teamBgImg2 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/team/2.jpg");
+}
+
+.teamBgImg3 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/team/3.jpg");
+}
+
+.team {
+  background-size: auto 400px;
+  background-repeat: no-repeat;
+  max-height: 300px;
+  padding-top: 120px;
+  padding-bottom: 35px;
+  color: white;
+  font-size: 1em;
+  padding-left: 35px;
+}
+
+h4,
+h3,
+h2,
+h1 {
+  font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 900;
+  line-height: 1.2;
+  color: inherit;
+}
+
+h3 {
+  font-size: 1.96875rem;
+}
+
+.bgGrid1 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/grid/1.jpg");
+}
+
+.bgGrid2 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/grid/2.jpg");
+}
+
+.bgGrid3 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/grid/3.jpg");
+}
+
+.bgGrid4 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/grid/4.jpg");
+}
+
+.bgGrid5 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/grid/5.jpg");
+}
+
+.bgGrid6 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/grid/6.jpg");
+}
+
+.portGrid {
+  background-size: auto 260px;
+  background-repeat: no-repeat;
+  max-height: 300px;
+  padding-top: 120px;
+  padding-bottom: 35px;
+  color: white;
+  font-size: 1em;
+  padding-left: 35px;
+}
+
+.portGrid h2 {
+  text-transform: uppercase;
+  font-size: 1em;
+}
+
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 3px double red;
+  width: 20%;
+}
+
+.page-section-heading {
+  font-size: 3rem;
+}
+
+.processImg {
+  background-image: linear-gradient(rgba(0, 0, 0, .74), rgba(0, 0, 0, .74)), url("images/imgP.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+.processImg p {
+  font-size: 1.2em;
+}
+
+.processImg h3 {
+  font-size: 2.5em;
+}
+
+.processImg a {
+  font-size: 1.5em;
+}
+
+.masthead-scroll {
+  bottom: 2rem;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  padding: 75px;
+}
+
+.masthead-scroll-btn i {
+  display: inline-block;
+  font-size: 1.5rem;
+  height: 3.125rem;
+  width: 3.125rem;
+  line-height: 3.125rem;
+  border-radius: 100%;
+  border: 0.125rem;
+  border-style: solid;
+  border-color: #fff;
+  color: #fff;
+}
+
+.carousel-item {
+  size: 150px;
+}
+
+#About {
+  padding: 50px;
+}
+
+#subscribe {
+  background-color: black;
+}
+
+#contactFooter {
+  padding: 150px;
+}
+
+#footerStart {
+  padding: 50px;
+}
+
+#subscribeBox {
+  padding: 30px;
+}
+
+#BuyNow {
+  font-size: 30px;
+}
+
+.bgFooter {
+  background-image: linear-gradient(rgba(0, 0, 0, .74), rgba(0, 0, 0, .74)), url("http://themes.startbootstrap.com/vitality-v3.0.1/dist/img/bg-footer.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.callout {
+  background-image: linear-gradient(rgba(0, 0, 0, .74), rgba(0, 0, 0, .74)), url(" http://themes.startbootstrap.com/vitality-v3.0.1/dist/img/bg-callout.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#teamText {
+  text-align: center;
+  line-height: 1.25;
+  box-sizing: border-box;
+  font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 2.5rem;
+}
+
+.h-text {
+  font-size: 1.6875rem;
+  font-weight: 900;
+  line-height: 1.2;
+  color: inherit;
+}
+
+.process-list i {
+  height: 4rem;
+  width: 4rem;
+  border: 0.2rem solid #212529;
+  border-radius: 100%;
+  text-align: center;
+  line-height: 4rem;
+  font-size: 1.5rem;
+}
+
+.process-list ul {
+  line-height: 40px;
+}
